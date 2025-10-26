@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br><br>🌱 I’m currently learning MERN Stack, focusing on building RESTful APIs, backend development, and gaining expertise in AWS cloud computing.<br><br>👯 I’m looking to collaborate on React Js Based projects<br><br>💬 Ask me about REACT JS, Web Development,WordPress<br><br>📫 How to reach me uhsoaib224@gmail.com<br><br>⚡ Fun fact I write cleaner code than my handwriting!
+🔭 I’m currently working on MERN Stack<br><br>🌱 I’m currently learning MERN Stack, focusing on building RESTful APIs, backend development, and gaining expertise in AWS cloud computing.<br><br>👯 I’m looking to collaborate on React Js Based projects<br><br>💬 Ask me about Artifical Intelligence, NLP, Python, JAVA, JavaScript, Web Development and WordPress<br><br>📫 How to reach me uhsoaib224@gmail.com<br><br>⚡ Fun fact I write cleaner code than my handwriting!
 
 
 ## 🌐 Socials:
