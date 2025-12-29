@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextJs, Typescript, PostgreSQL and Django<br><br>🌱 Actively learning AI/ML integration in web systems, focusing on building RESTful APIs, backend development, and gaining expertise in AWS cloud computing.<br><br>👯 I’m looking to collaborate on AI integration projects in MERN, NextJS or Django<br><br>💬 Ask me about Artifical Intelligence, NLP, Python, JAVA, JavaScript, Web Development and WordPress<br><br>📫 How to reach me uhsoaib224@gmail.com<br><br>⚡ Fun fact I write cleaner code than my handwriting!
+🔭 I’m currently working on NextJs, Typescript, React.js, PostgreSQL,MongoDB and Django<br><br>🌱 Actively architecting AI/ML integration in web systems, focusing on building RESTful APIs, GraphQL, backend development, and gaining expertise in  cloud computing.<br><br>👯 I’m looking to collaborate on AI integration projects in MERN,  PERN, NextJS or Django<br><br>💬 Ask me about Artifical Intelligence, NLP, Python, JavaScript, Full Stack development and WordPress<br><br>📫 How to reach me uhsoaib224@gmail.com<br><br>⚡ Fun fact I write cleaner code than my handwriting!
 
 
 ## 🌐 Socials:
