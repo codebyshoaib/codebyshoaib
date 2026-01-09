@@ -1,17 +1,4 @@
-<div>
-<h1 align="center">
-	<img src="/gitcover.svg">
-	<a href="mailto:uhsoaib224@gmail.com" target="blank">
-		<img src="email.svg" width="200px"/>
-	</a>
-	<a href="https://www.linkedin.com/in/shoaibbb/">
-		<img src="link.svg" width="150px"/>
-	</a>
-	<a href="https://github.com/codebyshoaib">
-		<img src="git.svg" width="150px"/>
-	</a>
-</h1>
-</div>
+# 👋 Hi, I'm Shoaib Ud Din
 
 ## 🚀 What I Do
 
