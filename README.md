@@ -20,7 +20,7 @@ A production-grade platform to manage complex, multi-role audit workflows betwee
 A centralized academic system for managing Final Year Projects — approvals, faculty coordination, student selection, and intelligent project discovery to reduce redundant research.  
 <sub>Tech: Django, Next.js, PostgreSQL, Tailwind CSS</sub>
 
-### 🧠 Voice-First AI Sales Assistan
+### 🧠 Voice-First AI Sales Assistant
 Building a full-stack sales automation platform integrating conversational AI to streamline customer interactions. 
 <sub>Tech: Node.js, TypeScript,Firebase,MongoDB, OpenAI, Google Whisper API</sub>
 
