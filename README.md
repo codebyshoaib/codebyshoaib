@@ -20,9 +20,9 @@ A production-grade platform to manage complex, multi-role audit workflows betwee
 A centralized academic system for managing Final Year Projects — approvals, faculty coordination, student selection, and intelligent project discovery to reduce redundant research.  
 <sub>Tech: Django, Next.js, PostgreSQL, Tailwind CSS</sub>
 
-### 🧠 AI-Driven Semantic Search Systems
-Built semantic and hybrid search solutions using embeddings and reranking to enable intelligent querying over large document collections.  
-<sub>Tech: Python, SBERT, Vector Databases, LLM APIs</sub>
+### 🧠 Voice-First AI Sales Assistan
+Building a full-stack sales automation platform integrating conversational AI to streamline customer interactions. 
+<sub>Tech: Node.js, TypeScript,Firebase,MongoDB, OpenAI, Google Whisper API</sub>
 
 
 ## 🛠️ Tech Stack
