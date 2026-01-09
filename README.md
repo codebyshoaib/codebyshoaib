@@ -9,7 +9,6 @@ I design and build **scalable full-stack web applications** with a strong backen
 - 🧠 AI-powered systems (NLP, search, automation)  
 - 🛠️ Tools that eliminate manual workflows  
 
----
 
 ## 💼 Highlights
 
@@ -25,7 +24,6 @@ A centralized academic system for managing Final Year Projects — approvals, fa
 Built semantic and hybrid search solutions using embeddings and reranking to enable intelligent querying over large document collections.  
 <sub>Tech: Python, SBERT, Vector Databases, LLM APIs</sub>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -47,7 +45,6 @@ Built semantic and hybrid search solutions using embeddings and reranking to ena
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </div>
 
----
 
 ## 🏆 Experience & Strengths
 
@@ -56,14 +53,12 @@ Built semantic and hybrid search solutions using embeddings and reranking to ena
 - 🧩 Strong focus on **modular design & separation of concerns**  
 - 🤝 Worked closely with clients, stakeholders, and cross-functional teams  
 
----
 
 ## 🎓 Academic Pursuits
 
 Bachelor’s in **Computer Science**  
 Focused on combining **theory with production-grade engineering**, especially backend systems, AI integration, and cloud architecture.
 
----
 
 <p align="center">
 	<sub>Built with ❤️, structured thinking, and way too much coffee ☕</sub>
