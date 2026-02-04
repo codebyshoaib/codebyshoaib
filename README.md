@@ -5,8 +5,8 @@
 I design and build **scalable full-stack web applications** with a strong backend foundation, focusing on **clarity**, **security**, and **real-world performance**.
 
 - 🌐 Role-based platforms & admin systems  
-- 📱 Modern web apps & dashboards  
-- 🧠 AI-powered systems (NLP, search, automation)  
+- 📱 AI integrated solutions
+- 🧠 Intelligent systems (NLP, search, automation)  
 - 🛠️ Tools that eliminate manual workflows  
 
 
