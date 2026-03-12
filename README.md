@@ -3,10 +3,7 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm Shoaib Ud Din</h1>
-
 <p align="center">🚀 Full Stack Developer &nbsp;|&nbsp; System Design &nbsp;|&nbsp; AI + DevSecOps</p>
-
----
 
 ## 🚀 What I Do
 I design and build **scalable full-stack web applications** with a strong backend foundation, focusing on **clarity**, **security**, and **real-world performance**.
