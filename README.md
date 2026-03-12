@@ -84,6 +84,15 @@ Building a full-stack sales automation platform integrating conversational AI to
 Bachelor's in **Computer Science**  from Quaid-i-Azam University, Islamabad
 Focused on combining **theory with production-grade engineering**, especially backend systems, AI integration, and cloud architecture.
 
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="mailto:ushoaib224@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shoaibbbb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://shoaib-fullstack-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+  <a href="https://www.instagram.com/shoaib.udn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=480&lines=Designing+Systems+that+Scale;Backend-Heavy.+Security-Minded.+Ship-Focused.;Building+Multi-Tenant+%26+Role-Based+Platforms;Integrating+AI+into+Real-World+Workflows;From+Architecture+to+Deployment+%E2%80%94+End+to+End;Full+Stack+Engineer+%7C+Pakistan+🇵🇰">
 </p>
